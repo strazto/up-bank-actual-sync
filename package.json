@@ -1,0 +1,30 @@
+{
+  "name": "up-bank-actual-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strazto/up-bank-actual-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strazto/up-bank-actual-sync/issues"
+  },
+  "homepage": "https://github.com/strazto/up-bank-actual-sync#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.12.0"
+  },
+  "dependencies": {
+    "@actual-app/api": "^6.8.1",
+    "up-bank-api": "^1.5.2"
+  }
+}
